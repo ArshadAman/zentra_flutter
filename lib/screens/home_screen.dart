@@ -12,7 +12,7 @@ class HomeScreen extends StatelessWidget {
 }
 
 class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+  HomePage({super.key});
 
   final List<Map<String, String>> mainEvents = [
     {

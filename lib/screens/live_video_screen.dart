@@ -140,7 +140,7 @@ class _LiveVideoScreenState extends State<LiveVideoScreen> with SingleTickerProv
               ),
               const Text(
                 'Live Concert',
-                style: TextStyle(
+                  style: TextStyle(
                   color: Colors.white,
                   fontWeight: FontWeight.bold,
                   fontSize: 24,
